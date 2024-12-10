@@ -1,16 +1,13 @@
-## Hi there 👋
+# Hi there, I'm Junssekut 👋
 
-<!--
-**junssekut/junssekut** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## About Me
+- 🌱 I’m currently learning Computer Science at BCA Learning Institute
+- 👯 I’m looking to collaborate on Open Source Projects
+- 📫 How to reach me: junssekut (discord)
+- ⚡ Fun fact: -
 
-Here are some ideas to get you started:
+## GitHub Stats
+![Junssekut's GitHub Stats](https://github-readme-stats.vercel.app/api?username=junssekut&show_icons=true&theme=radical)
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## Top Languages
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=junssekut&layout=compact&theme=radical)
