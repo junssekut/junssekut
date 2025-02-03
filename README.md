@@ -76,7 +76,7 @@
 
 <!-- Footer -->
 <samp>
-        <div style="display: flex; justify-content: center; align-items: center; flex-direction:row; gap:10px;">
+        <div style="display: flex; justify-content: center; align-items: center; flex-direction:row; gap:10px;" align="center">
     <img src="https://komarev.com/ghpvc/?username=junssekut&style=for-the-badge&abbreviated=true&color=brightgreen" alt="Profile Views">
     <div style="display: flex; justify-content: center; align-items: center; margin-top: 10px; gap: 5px;">
         <a href="mailto:arjuna.andio@binus.ac.id" target="_blank"><img alt="Mail"
