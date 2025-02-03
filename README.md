@@ -1,6 +1,6 @@
 
 <p align="center">
-        <img alt="junssekut" src="./assets/programmer.gif">
+        <img alt="junssekut" style="border-radius:10px;" width="50%" src="./assets/programmer.gif">
 </p>
 
 <h3 align="center">
