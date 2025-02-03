@@ -13,9 +13,9 @@
 <p align="center">
         <!-- Intro -->
         <samp>
-                「 I'm a Computer Science student at <b>BINUS University</b> 」
+                「 i'm a Computer Science student at <b>BINUS University</b> 」
                 <br>
-                「 I like to code and shit</b> 」
+                「 i like to code and shit</b> 」
                 <br>
                 <br>
         </samp>
