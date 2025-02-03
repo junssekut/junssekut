@@ -76,21 +76,19 @@
 
 <!-- Footer -->
 <samp>
-        <div style="display: flex; justify-content: center; align-items: center; flex-direction:row; gap:10px;" align="center">
-    <img src="https://komarev.com/ghpvc/?username=junssekut&style=for-the-badge&abbreviated=true&color=brightgreen" alt="Profile Views">
-    <div style="display: flex; justify-content: center; align-items: center; margin-top: 10px; gap: 5px;">
-        <a href="mailto:arjuna.andio@binus.ac.id" target="_blank"><img alt="Mail"
-                src="https://img.shields.io/badge/-Mail-EA4335?style=flat-square&logo=Gmail&logoColor=white">
-        </a>
-        <a href="https://discordapp.com/users/832624273528455209" target="_blank"><img alt="Discord"
-                src="https://img.shields.io/badge/Discord-%235865F2.svg?&logo=discord&logoColor=white">
-        </a>
-        <a href="https://www.linkedin.com/in/arjuna-andio-08b958297/" target="_blank"><img alt="Linkedin"
-                src="https://custom-icon-badges.demolab.com/badge/LinkedIn-0A66C2?logo=linkedin-white&logoColor=fff">
-        </a>
-    </div>
-</div>
-
+        <p align="center">
+                <a href="mailto:arjuna.andio@binus.ac.id" target="_blank"><img alt="Mail"
+                        src="https://img.shields.io/badge/-Mail-EA4335?style=flat-square&logo=Gmail&logoColor=white">
+                </a>
+                <a href="https://discordapp.com/users/832624273528455209" target="_blank"><img alt="Youtube"
+                        src="https://img.shields.io/badge/Discord-%235865F2.svg?&logo=discord&logoColor=white">
+                </a>
+                <a href="https://www.linkedin.com/in/arjuna-andio-08b958297/" target="_blank"><img alt="Linkedin"
+                        src="https://custom-icon-badges.demolab.com/badge/LinkedIn-0A66C2?logo=linkedin-white&logoColor=fff">
+                </a>
+                <br>
+                <img src="https://komarev.com/ghpvc/?username=junssekut&style=for-the-badge&abbreviated=true&color=brightgreen" alt="Profile Views">
+        </p>
 </samp>
 
 <!-- Featured Repositories -->
