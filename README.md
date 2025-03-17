@@ -105,8 +105,8 @@
 </p>
 
 <p align="center">
-<a href="https://github.com/junssekut/saraFarm">
-<img width='49%' align="center"src="https://github-readme-stats.vercel.app/api/pin/?username=junssekut&repo=saraFarm&theme=swift" />
+<a href="https://github.com/junssekut/luckycat">
+<img width='49%' align="center"src="https://github-readme-stats.vercel.app/api/pin/?username=junssekut&repo=luckycat&theme=swift" />
 </a>
 <span>&nbsp;</span>
 <a href="https://github.com/junssekut/saraProxyChecker">
