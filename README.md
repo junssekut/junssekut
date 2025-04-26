@@ -15,7 +15,7 @@
         <samp>
                 「 i'm a Computer Science student at <b>BINUS University</b> 」
                 <br>
-                「 i like to code and shit</b> 」
+                「 i like to build things</b> 」
                 <br>
                 <br>
         </samp>
